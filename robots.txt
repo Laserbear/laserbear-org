@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://laserbear.org/sitemap.xml
