@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Your
+first_name: Christian
 middle_name:
-last_name: Name
+last_name: Ng
 description: > # the ">" symbol means to ignore newlines until next key
   Distill-style articles on machine learning.
 footer_text: >
@@ -168,8 +168,8 @@ display_categories: []
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Name]
-  first_name: [Your]
+  last_name: [Ng]
+  first_name: [Christian]
 
   style: apa
   locale: en

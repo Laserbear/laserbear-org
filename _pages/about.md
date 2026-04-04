@@ -24,4 +24,4 @@ latest_posts:
   limit: 3
 ---
 
-Welcome. This site hosts distill-style articles on machine learning.
+Welcome to my personal research blog, where I write distill-style articles on machine learning.
