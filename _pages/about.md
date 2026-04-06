@@ -24,4 +24,6 @@ latest_posts:
   limit: 3
 ---
 
-Welcome to my personal research blog, where I write distill-style articles on machine learning.
+I'm working on more efficient algorithms for scaling transformers. I believe inference-time compute will unlock massive gains in AI capabilities and it is/will be bottlenecked on token generation speed.
+
+Previously, I've worked on adversarial machine learning and applying machine learning algorithms to detect spam, abuse, and security vulnerabilities. I studied pure mathematics at UC Berkeley with the guidance of Doug Tygar and Xiao Qiang. I built machine learning systems at AWS, Microsoft Azure, and Snapchat. I currently work at a startup on weapons detection for public safety. 
